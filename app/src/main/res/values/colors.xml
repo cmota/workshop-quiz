@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e53935</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
+
+    <color name="colorPink">#d81b60</color>
+    <color name="colorDarkPink">#880e4f</color>
+
+    <color name="colorPurple">#8e24aa</color>
+    <color name="colorDarkPurple">#4a148c</color>
+
+    <color name="colorDeepPurple">#5e35b1</color>
+    <color name="colorDarkDeepPurple">#311b92</color>
+
+    <color name="colorIndigo">#3949ab</color>
+    <color name="colorDarkIndigo">#1a237e</color>
+
+    <color name="colorBlue">#1e88e5</color>
+    <color name="colorDarkBlue">#0d47a1</color>
+
+    <color name="colorLightBlue">#039be5</color>
+    <color name="colorDarkLightBlue">#01579b</color>
+
+    <color name="colorCyan">#00acc1</color>
+    <color name="colorDarkCyan">#006064</color>
+
+    <color name="colorTeal">#00897b</color>
+    <color name="colorDarkTeal">#004d40</color>
+
+    <color name="colorGreen">#43a047</color>
+    <color name="colorDarkGreen">#1b5e20</color>
+
+    <color name="colorLightGreen">#7cb342</color>
+    <color name="colorDarkLightGreen">#33691e</color>
+
+    <color name="colorLime">#c0ca33</color>
+    <color name="colorDarkLime">#827717</color>
+
+    <color name="colorYellow">#fdd835</color>
+    <color name="colorDarkYellow">#f57f17</color>
+
+    <color name="colorAmber">#ffb300</color>
+    <color name="colorDarkAmber">#ff6f00</color>
+
+    <color name="colorOrange">#fb8c00</color>
+    <color name="colorDarkOrange">#e65100</color>
+
+    <color name="colorDeepOrange">#f4511e</color>
+    <color name="colorDarkDeepOrange">#bf360c</color>
+
+    <color name="colorBrown">#6d4c41</color>
+    <color name="colorDarkBrown">#3e2723</color>
+
+    <color name="colorGrey">#757575</color>
+    <color name="colorDarkGrey">#212121</color>
+
+    <color name="colorBlueGrey">#546e7a</color>
+    <color name="colorDarkBlueGrey">#263238</color>
+
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorLightGrey">#e0e0e0</color>
+</resources>

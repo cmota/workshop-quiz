@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <!-- Login -->
+    <string name="hint_insert_email">Your e-mail</string>
+    <string name="hint_insert_password">Your password</string>
+
+    <string name="login">Login</string>
+
+    <!-- Main -->
+    <string name="main_welcome">Welcome!</string>
+    <string name="main_n_wins">You\'ve guessed %1$d questions on your last game!</string>
+    <string name="main_select">Select:</string>
+    <string name="main_share_message">You need to try this new application!</string>
+    <string name="main_play_a_game">Let\'s play a game!</string>
+
+    <!-- Menu -->
+    <string name="action_themes">Themes</string>
+    <string name="action_share">Share</string>
+
+    <!-- Toolbar -->
+    <string name="toolbar_themes">Themes</string>
+
+    <!-- Game -->
+    <string name="game_wins">%1$d wins!</string>
+    <string name="game_next_question">Next</string>
+    <string name="game_last_question">Last</string>
+    <string name="game_back_home">Home</string>
+    <string name="game_answer_correct">Well done! Your answer is correct</string>
+    <string name="game_answer_incorrect">Better luck next time! Answer is: %1$s</string>
+
+    <!-- Placeholders -->
+    <string name="placeholder_question">This will be the question to the game</string>
+    <string name="placeholder_option_a">This will be the answer A</string>
+    <string name="placeholder_option_b">This will be the answer B</string>
+    <string name="placeholder_option_c">This will be the answer C</string>
+    <string name="placeholder_option_d">This will be the answer D</string>
+    <string name="placeholder_answer_final">Final result goes here</string>
+</resources>

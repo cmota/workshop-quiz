@@ -1,0 +1,118 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
+    </style>
+
+    <style name="LightToolbarStyle" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="AppThemePink" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPink</item>
+        <item name="colorPrimaryDark">@color/colorDarkPink</item>
+        <item name="android:windowBackground">@color/colorPink</item>
+    </style>
+
+    <style name="AppThemePurple" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPurple</item>
+        <item name="colorPrimaryDark">@color/colorDarkPurple</item>
+        <item name="android:windowBackground">@color/colorPurple</item>
+    </style>
+
+    <style name="AppThemeDeepPurple" parent="AppTheme">
+        <item name="colorPrimary">@color/colorDeepPurple</item>
+        <item name="colorPrimaryDark">@color/colorDarkDeepPurple</item>
+        <item name="android:windowBackground">@color/colorDeepPurple</item>
+    </style>
+
+    <style name="AppThemeIndigo" parent="AppTheme">
+        <item name="colorPrimary">@color/colorIndigo</item>
+        <item name="colorPrimaryDark">@color/colorDarkIndigo</item>
+        <item name="android:windowBackground">@color/colorIndigo</item>
+    </style>
+
+    <style name="AppThemeBlue" parent="AppTheme">
+        <item name="colorPrimary">@color/colorBlue</item>
+        <item name="colorPrimaryDark">@color/colorDarkBlue</item>
+        <item name="android:windowBackground">@color/colorBlue</item>
+    </style>
+
+    <style name="AppThemeLightBlue" parent="AppTheme">
+        <item name="colorPrimary">@color/colorLightBlue</item>
+        <item name="colorPrimaryDark">@color/colorDarkLightBlue</item>
+        <item name="android:windowBackground">@color/colorLightBlue</item>
+    </style>
+
+    <style name="AppThemeCyan" parent="AppTheme">
+        <item name="colorPrimary">@color/colorCyan</item>
+        <item name="colorPrimaryDark">@color/colorDarkCyan</item>
+        <item name="android:windowBackground">@color/colorCyan</item>
+    </style>
+
+    <style name="AppThemeTeal" parent="AppTheme">
+        <item name="colorPrimary">@color/colorTeal</item>
+        <item name="colorPrimaryDark">@color/colorDarkTeal</item>
+        <item name="android:windowBackground">@color/colorTeal</item>
+    </style>
+
+    <style name="AppThemeGreen" parent="AppTheme">
+        <item name="colorPrimary">@color/colorGreen</item>
+        <item name="colorPrimaryDark">@color/colorDarkGreen</item>
+        <item name="android:windowBackground">@color/colorGreen</item>
+    </style>
+
+    <style name="AppThemeLightGreen" parent="AppTheme">
+        <item name="colorPrimary">@color/colorLightGreen</item>
+        <item name="colorPrimaryDark">@color/colorDarkLightGreen</item>
+        <item name="android:windowBackground">@color/colorLightGreen</item>
+    </style>
+
+    <style name="AppThemeLime" parent="AppTheme">
+        <item name="colorPrimary">@color/colorLime</item>
+        <item name="colorPrimaryDark">@color/colorDarkLime</item>
+        <item name="android:windowBackground">@color/colorLime</item>
+    </style>
+
+    <style name="AppThemeYellow" parent="AppTheme">
+        <item name="colorPrimary">@color/colorYellow</item>
+        <item name="colorPrimaryDark">@color/colorDarkYellow</item>
+        <item name="android:windowBackground">@color/colorYellow</item>
+    </style>
+
+    <style name="AppThemeAmber" parent="AppTheme">
+        <item name="colorPrimary">@color/colorAmber</item>
+        <item name="colorPrimaryDark">@color/colorDarkAmber</item>
+        <item name="android:windowBackground">@color/colorAmber</item>
+    </style>
+
+    <style name="AppThemeOrange" parent="AppTheme">
+        <item name="colorPrimary">@color/colorOrange</item>
+        <item name="colorPrimaryDark">@color/colorDarkOrange</item>
+        <item name="android:windowBackground">@color/colorOrange</item>
+    </style>
+
+    <style name="AppThemeBrown" parent="AppTheme">
+        <item name="colorPrimary">@color/colorBrown</item>
+        <item name="colorPrimaryDark">@color/colorDarkBrown</item>
+        <item name="android:windowBackground">@color/colorBrown</item>
+    </style>
+
+    <style name="AppThemeGrey" parent="AppTheme">
+        <item name="colorPrimary">@color/colorGrey</item>
+        <item name="colorPrimaryDark">@color/colorDarkGrey</item>
+        <item name="android:windowBackground">@color/colorGrey</item>
+    </style>
+
+    <style name="AppThemeBlueGrey" parent="AppTheme">
+        <item name="colorPrimary">@color/colorBlueGrey</item>
+        <item name="colorPrimaryDark">@color/colorDarkBlueGrey</item>
+        <item name="android:windowBackground">@color/colorBlueGrey</item>
+    </style>
+
+</resources>
